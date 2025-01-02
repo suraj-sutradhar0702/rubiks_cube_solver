@@ -1,5 +1,7 @@
 # Rubik's cube solver.
+Solve your Rubik's Cube effortlessly with our interactive Rubik's Cube Solver! This project combines advanced algorithms like Layer-by-Layer (LBL) and Herbert Kociemba's Two-Phase Algorithm to provide efficient solutions. Alongside, it features a visually engaging cube simulator to practice and explore cube rotations.
 
+Whether you're a beginner learning the basics or a speedcuber perfecting your skills, this tool is designed to make solving the cube intuitive and fun.
 &nbsp;
 
 ## Play It
