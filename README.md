@@ -6,7 +6,7 @@ Whether you're a beginner learning the basics or a speedcuber perfecting your sk
 
 ## Play It
 
-[rubiks-cube-solver](https://zaidmukaddam.github.io/rubiks-cube-solver/)
+[rubiks-cube-solver](https://suraj-sutradhar0702.github.io/rubiks_cube_solver/)
 
 
 &nbsp;
